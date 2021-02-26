@@ -1,2 +1,3 @@
 # Pizza-Time
-It's pizza time. 
+
+![pizza time](./pizza_time.gif)
